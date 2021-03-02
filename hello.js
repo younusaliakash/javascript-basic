@@ -1,0 +1,5 @@
+console.log('Hello Akash')
+console.log(1234567890)
+console.log('99')
+console.log(77.77)
+console.log('my fav number is'+ 9)
